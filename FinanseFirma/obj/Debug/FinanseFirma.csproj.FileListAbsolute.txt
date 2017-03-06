@@ -1,0 +1,5 @@
+C:\Users\Joanka\documents\visual studio 2015\Projects\FinanseFirma\FinanseFirma\bin\Debug\FinanseFirma.dll
+C:\Users\Joanka\documents\visual studio 2015\Projects\FinanseFirma\FinanseFirma\bin\Debug\FinanseFirma.pdb
+C:\Users\Joanka\documents\visual studio 2015\Projects\FinanseFirma\FinanseFirma\obj\Debug\FinanseFirma.csprojResolveAssemblyReference.cache
+C:\Users\Joanka\documents\visual studio 2015\Projects\FinanseFirma\FinanseFirma\obj\Debug\FinanseFirma.dll
+C:\Users\Joanka\documents\visual studio 2015\Projects\FinanseFirma\FinanseFirma\obj\Debug\FinanseFirma.pdb
