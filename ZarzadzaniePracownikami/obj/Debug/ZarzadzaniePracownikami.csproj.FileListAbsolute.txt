@@ -1,0 +1,8 @@
+D:\Projekty\FinanseFirma\ZarzadzaniePracownikami\bin\Debug\ZarzadzaniePracownikami.exe.config
+D:\Projekty\FinanseFirma\ZarzadzaniePracownikami\bin\Debug\ZarzadzaniePracownikami.exe
+D:\Projekty\FinanseFirma\ZarzadzaniePracownikami\bin\Debug\ZarzadzaniePracownikami.pdb
+D:\Projekty\FinanseFirma\ZarzadzaniePracownikami\bin\Debug\Firma.dll
+D:\Projekty\FinanseFirma\ZarzadzaniePracownikami\bin\Debug\Firma.pdb
+D:\Projekty\FinanseFirma\ZarzadzaniePracownikami\obj\Debug\ZarzadzaniePracownikami.csprojResolveAssemblyReference.cache
+D:\Projekty\FinanseFirma\ZarzadzaniePracownikami\obj\Debug\ZarzadzaniePracownikami.exe
+D:\Projekty\FinanseFirma\ZarzadzaniePracownikami\obj\Debug\ZarzadzaniePracownikami.pdb
