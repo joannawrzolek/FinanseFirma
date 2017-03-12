@@ -14,7 +14,8 @@ namespace ZarzadzaniePracownikami
             var p1 = new Pracownik();
             p1.imie = "Antoni";
             p1.nazwisko = "Misiewicz";
-            p1.ustawTypUmowy(UmowaTyp.Zlecenie);
+            //p1.ustawTypUmowy(UmowaTyp.Zlecenie);
+            p1.Typ = UmowaTyp.Zlecenie;
 
 
             //p1.ustawDateZatrudnienia(new DateTime(2015, 10, 10));
