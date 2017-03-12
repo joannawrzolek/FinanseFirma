@@ -7,4 +7,3 @@ D:\Projekty\FinanseFirma\FinanseFirma\bin\Debug\Firma.dll
 D:\Projekty\FinanseFirma\FinanseFirma\bin\Debug\Firma.pdb
 D:\Projekty\FinanseFirma\FinanseFirma\obj\Debug\Firma.dll
 D:\Projekty\FinanseFirma\FinanseFirma\obj\Debug\Firma.pdb
-D:\Projekty\FinanseFirma\FinanseFirma\obj\Debug\FinanseFirma.csprojResolveAssemblyReference.cache
