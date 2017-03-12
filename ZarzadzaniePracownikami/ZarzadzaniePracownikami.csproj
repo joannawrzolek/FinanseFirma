@@ -47,9 +47,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\FinanseFirma\FinanseFirma.csproj">
       <Project>{0bfb7cf2-e552-43c4-8f8f-edeca9a2ec64}</Project>
       <Name>FinanseFirma</Name>
