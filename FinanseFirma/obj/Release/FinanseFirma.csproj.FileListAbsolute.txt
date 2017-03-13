@@ -1,0 +1,4 @@
+D:\Projekty\FinanseFirma\FinanseFirma\bin\Release\Firma.dll
+D:\Projekty\FinanseFirma\FinanseFirma\bin\Release\Firma.pdb
+D:\Projekty\FinanseFirma\FinanseFirma\obj\Release\Firma.dll
+D:\Projekty\FinanseFirma\FinanseFirma\obj\Release\Firma.pdb
