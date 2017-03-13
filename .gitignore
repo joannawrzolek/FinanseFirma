@@ -3,5 +3,6 @@
 ################################################################################
 
 /ZarzadzaniePracownikami/bin/Debug
-/ZarzadzaniePracownikami
-/FinanseFirma
+
+/ZarzadzaniePracownikami/obj/Debug
+/FinanseFirma/bin/Debug
