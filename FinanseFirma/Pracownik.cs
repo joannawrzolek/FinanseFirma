@@ -9,7 +9,7 @@ namespace  Finanse.Pracownicy
     public class Pracownik    /*Internal - jest domyslny*/
     {
         ////dyrektywa  region
-        #region POLA
+        #region Pola
         int nrPracownika;
         public string imie;   //""
         public string nazwisko;  //""
@@ -54,7 +54,7 @@ namespace  Finanse.Pracownicy
 
         #endregion
 
-        #region  METODY  AKCESOROW
+        #region  Metody akcesorow
         //accerory     //get set
         // zwracamy jawnie this.dataZatrudnienia    //kiedy zwracamy jawnie???
         public DateTime pobierzDataZatrudnienia()   //GET

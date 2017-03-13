@@ -3,6 +3,7 @@ C:\Users\Joanka\documents\visual studio 2015\Projects\FinanseFirma\FinanseFirma\
 C:\Users\Joanka\documents\visual studio 2015\Projects\FinanseFirma\FinanseFirma\obj\Debug\FinanseFirma.csprojResolveAssemblyReference.cache
 C:\Users\Joanka\documents\visual studio 2015\Projects\FinanseFirma\FinanseFirma\obj\Debug\FinanseFirma.dll
 C:\Users\Joanka\documents\visual studio 2015\Projects\FinanseFirma\FinanseFirma\obj\Debug\FinanseFirma.pdb
+D:\Projekty\FinanseFirma\FinanseFirma\obj\Debug\FinanseFirma.csprojResolveAssemblyReference.cache
 D:\Projekty\FinanseFirma\FinanseFirma\bin\Debug\Firma.dll
 D:\Projekty\FinanseFirma\FinanseFirma\bin\Debug\Firma.pdb
 D:\Projekty\FinanseFirma\FinanseFirma\obj\Debug\Firma.dll
